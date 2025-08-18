@@ -6,4 +6,4 @@ This repository is dedicated to try to connect a Form in front end and save in a
 
 **Front-end:** JS, HTML, CSS
 
-**Back-end:** php, Apache24
+**Back-end:** MySql, php, Apache24
